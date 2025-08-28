@@ -1,0 +1,1001 @@
+Customer,Year,Month,Channel,Sales,Campaign
+Maskerade Magic,2021,1,EU,0.0,0
+Maskerade Magic,2021,2,EU,0.0,0
+Maskerade Magic,2021,3,EU,0.0,0
+Maskerade Magic,2021,4,EU,79389.0,0
+Maskerade Magic,2021,5,EU,106319.0,0
+Maskerade Magic,2021,6,EU,53159.0,0
+Maskerade Magic,2021,7,EU,70573.0,0
+Maskerade Magic,2021,8,EU,458240.0,1
+Maskerade Magic,2021,9,EU,0.0,0
+Maskerade Magic,2021,10,EU,0.0,0
+Maskerade Magic,2021,11,EU,203207.0,1
+Maskerade Magic,2021,12,EU,76467.0,0
+Maskerade Magic,2022,1,EU,0.0,0
+Maskerade Magic,2022,2,EU,0.0,0
+Maskerade Magic,2022,3,EU,0.0,0
+Maskerade Magic,2022,4,EU,162232.0,0
+Maskerade Magic,2022,5,EU,112321.0,0
+Maskerade Magic,2022,6,EU,136610.0,0
+Maskerade Magic,2022,7,EU,134746.0,0
+Maskerade Magic,2022,8,EU,437996.0,1
+Maskerade Magic,2022,9,EU,0.0,0
+Maskerade Magic,2022,10,EU,0.0,0
+Maskerade Magic,2022,11,EU,296606.0,1
+Maskerade Magic,2022,12,EU,148209.0,0
+Maskerade Magic,2023,1,EU,0.0,0
+Maskerade Magic,2023,2,EU,0.0,0
+Maskerade Magic,2023,3,EU,0.0,0
+Maskerade Magic,2023,4,EU,145713.0,0
+Maskerade Magic,2023,5,EU,81291.0,0
+Maskerade Magic,2023,6,EU,88660.0,0
+Maskerade Magic,2023,7,EU,145567.0,0
+Maskerade Magic,2023,8,EU,576166.0,1
+Maskerade Magic,2023,9,EU,0.0,0
+Maskerade Magic,2023,10,EU,0.0,0
+Maskerade Magic,2023,11,EU,326616.0,1
+Maskerade Magic,2023,12,EU,105244.0,0
+Maskerade Magic,2024,1,EU,0.0,0
+Maskerade Magic,2024,2,EU,0.0,0
+Maskerade Magic,2024,3,EU,0.0,0
+Maskerade Magic,2024,4,EU,50276.0,0
+Maskerade Magic,2024,5,EU,44068.0,0
+Maskerade Magic,2024,6,EU,62631.0,0
+Maskerade Magic,2024,7,EU,65795.0,0
+Maskerade Magic,2024,8,EU,297907.0,1
+Maskerade Magic,2024,9,EU,0.0,0
+Maskerade Magic,2024,10,EU,0.0,0
+Maskerade Magic,2024,11,EU,142844.0,1
+Maskerade Magic,2024,12,EU,55228.0,0
+Maskerade Magic,2025,1,EU,0.0,0
+Maskerade Magic,2025,2,EU,0.0,0
+Funky Fiesta,2021,1,EU,256468.0,1
+Funky Fiesta,2021,2,EU,0.0,0
+Funky Fiesta,2021,3,EU,80612.0,0
+Funky Fiesta,2021,4,EU,106720.0,0
+Funky Fiesta,2021,5,EU,102838.0,0
+Funky Fiesta,2021,6,EU,91025.0,0
+Funky Fiesta,2021,7,EU,121981.0,0
+Funky Fiesta,2021,8,EU,343420.0,1
+Funky Fiesta,2021,9,EU,386044.0,1
+Funky Fiesta,2021,10,EU,100013.0,0
+Funky Fiesta,2021,11,EU,170428.0,1
+Funky Fiesta,2021,12,EU,70258.0,0
+Funky Fiesta,2022,1,EU,387577.0,1
+Funky Fiesta,2022,2,EU,0.0,0
+Funky Fiesta,2022,3,EU,84302.0,0
+Funky Fiesta,2022,4,EU,86386.0,0
+Funky Fiesta,2022,5,EU,97044.0,0
+Funky Fiesta,2022,6,EU,99376.0,0
+Funky Fiesta,2022,7,EU,146701.0,0
+Funky Fiesta,2022,8,EU,495836.0,1
+Funky Fiesta,2022,9,EU,618287.0,1
+Funky Fiesta,2022,10,EU,140648.0,0
+Funky Fiesta,2022,11,EU,279412.0,1
+Funky Fiesta,2022,12,EU,130434.0,0
+Funky Fiesta,2023,1,EU,431355.0,1
+Funky Fiesta,2023,2,EU,0.0,0
+Funky Fiesta,2023,3,EU,86748.0,0
+Funky Fiesta,2023,4,EU,73608.0,0
+Funky Fiesta,2023,5,EU,113310.0,0
+Funky Fiesta,2023,6,EU,158831.0,0
+Funky Fiesta,2023,7,EU,111697.0,0
+Funky Fiesta,2023,8,EU,626106.0,1
+Funky Fiesta,2023,9,EU,533799.0,1
+Funky Fiesta,2023,10,EU,116875.0,0
+Funky Fiesta,2023,11,EU,338849.0,1
+Funky Fiesta,2023,12,EU,139377.0,0
+Funky Fiesta,2024,1,EU,270759.0,1
+Funky Fiesta,2024,2,EU,0.0,0
+Funky Fiesta,2024,3,EU,62152.0,0
+Funky Fiesta,2024,4,EU,80697.0,0
+Funky Fiesta,2024,5,EU,86337.0,0
+Funky Fiesta,2024,6,EU,73089.0,0
+Funky Fiesta,2024,7,EU,54630.0,0
+Funky Fiesta,2024,8,EU,314769.0,1
+Funky Fiesta,2024,9,EU,304387.0,1
+Funky Fiesta,2024,10,EU,88761.0,0
+Funky Fiesta,2024,11,EU,186629.0,1
+Funky Fiesta,2024,12,EU,103025.0,0
+Funky Fiesta,2025,1,EU,306318.0,1
+Funky Fiesta,2025,2,EU,0.0,0
+Costume Carnival,2021,1,EU,351470.0,1
+Costume Carnival,2021,2,EU,0.0,0
+Costume Carnival,2021,3,EU,66023.0,0
+Costume Carnival,2021,4,EU,108043.0,0
+Costume Carnival,2021,5,EU,110444.0,0
+Costume Carnival,2021,6,EU,55984.0,0
+Costume Carnival,2021,7,EU,111623.0,0
+Costume Carnival,2021,8,EU,0.0,0
+Costume Carnival,2021,9,EU,427991.0,1
+Costume Carnival,2021,10,EU,99132.0,0
+Costume Carnival,2021,11,EU,167333.0,1
+Costume Carnival,2021,12,EU,72682.0,0
+Costume Carnival,2022,1,EU,385375.0,1
+Costume Carnival,2022,2,EU,0.0,0
+Costume Carnival,2022,3,EU,85106.0,0
+Costume Carnival,2022,4,EU,111467.0,0
+Costume Carnival,2022,5,EU,106945.0,0
+Costume Carnival,2022,6,EU,114009.0,0
+Costume Carnival,2022,7,EU,128598.0,0
+Costume Carnival,2022,8,EU,0.0,0
+Costume Carnival,2022,9,EU,542271.0,1
+Costume Carnival,2022,10,EU,122368.0,0
+Costume Carnival,2022,11,EU,339289.0,1
+Costume Carnival,2022,12,EU,155224.0,0
+Costume Carnival,2023,1,EU,425586.0,1
+Costume Carnival,2023,2,EU,0.0,0
+Costume Carnival,2023,3,EU,76670.0,0
+Costume Carnival,2023,4,EU,171777.0,0
+Costume Carnival,2023,5,EU,144542.0,0
+Costume Carnival,2023,6,EU,155839.0,0
+Costume Carnival,2023,7,EU,133536.0,0
+Costume Carnival,2023,8,EU,0.0,0
+Costume Carnival,2023,9,EU,637525.0,1
+Costume Carnival,2023,10,EU,84081.0,0
+Costume Carnival,2023,11,EU,254950.0,1
+Costume Carnival,2023,12,EU,140771.0,0
+Costume Carnival,2024,1,EU,233305.0,1
+Costume Carnival,2024,2,EU,0.0,0
+Costume Carnival,2024,3,EU,81277.0,0
+Costume Carnival,2024,4,EU,78247.0,0
+Costume Carnival,2024,5,EU,83258.0,0
+Costume Carnival,2024,6,EU,83363.0,0
+Costume Carnival,2024,7,EU,102967.0,0
+Costume Carnival,2024,8,EU,0.0,0
+Costume Carnival,2024,9,EU,306022.0,1
+Costume Carnival,2024,10,EU,92519.0,0
+Costume Carnival,2024,11,EU,140520.0,1
+Costume Carnival,2024,12,EU,49790.0,0
+Costume Carnival,2025,1,EU,254053.0,1
+Costume Carnival,2025,2,EU,0.0,0
+Spooky Styles,2021,1,UK,0.0,0
+Spooky Styles,2021,2,UK,298139.0,1
+Spooky Styles,2021,3,UK,57177.0,0
+Spooky Styles,2021,4,UK,110446.0,0
+Spooky Styles,2021,5,UK,0.0,0
+Spooky Styles,2021,6,UK,103217.0,0
+Spooky Styles,2021,7,UK,75933.0,0
+Spooky Styles,2021,8,UK,358782.0,1
+Spooky Styles,2021,9,UK,426341.0,1
+Spooky Styles,2021,10,UK,88280.0,0
+Spooky Styles,2021,11,UK,188681.0,1
+Spooky Styles,2021,12,UK,58018.0,0
+Spooky Styles,2022,1,UK,0.0,0
+Spooky Styles,2022,2,UK,381079.0,1
+Spooky Styles,2022,3,UK,114340.0,0
+Spooky Styles,2022,4,UK,76583.0,0
+Spooky Styles,2022,5,UK,0.0,0
+Spooky Styles,2022,6,UK,74379.0,0
+Spooky Styles,2022,7,UK,139656.0,0
+Spooky Styles,2022,8,UK,424743.0,1
+Spooky Styles,2022,9,UK,492046.0,1
+Spooky Styles,2022,10,UK,80718.0,0
+Spooky Styles,2022,11,UK,322007.0,1
+Spooky Styles,2022,12,UK,161132.0,0
+Spooky Styles,2023,1,UK,0.0,0
+Spooky Styles,2023,2,UK,399655.0,1
+Spooky Styles,2023,3,UK,125591.0,0
+Spooky Styles,2023,4,UK,129258.0,0
+Spooky Styles,2023,5,UK,0.0,0
+Spooky Styles,2023,6,UK,106705.0,0
+Spooky Styles,2023,7,UK,116442.0,0
+Spooky Styles,2023,8,UK,538574.0,1
+Spooky Styles,2023,9,UK,612009.0,1
+Spooky Styles,2023,10,UK,137205.0,0
+Spooky Styles,2023,11,UK,245931.0,1
+Spooky Styles,2023,12,UK,140017.0,0
+Spooky Styles,2024,1,UK,0.0,0
+Spooky Styles,2024,2,UK,209613.0,1
+Spooky Styles,2024,3,UK,88915.0,0
+Spooky Styles,2024,4,UK,97840.0,0
+Spooky Styles,2024,5,UK,0.0,0
+Spooky Styles,2024,6,UK,71286.0,0
+Spooky Styles,2024,7,UK,70060.0,0
+Spooky Styles,2024,8,UK,263084.0,1
+Spooky Styles,2024,9,UK,290692.0,1
+Spooky Styles,2024,10,UK,60799.0,0
+Spooky Styles,2024,11,UK,192829.0,1
+Spooky Styles,2024,12,UK,92505.0,0
+Spooky Styles,2025,1,UK,0.0,0
+Spooky Styles,2025,2,UK,240552.0,1
+Disguise Delight,2021,1,UK,0.0,0
+Disguise Delight,2021,2,UK,243840.0,1
+Disguise Delight,2021,3,UK,79092.0,0
+Disguise Delight,2021,4,UK,59205.0,0
+Disguise Delight,2021,5,UK,76194.0,0
+Disguise Delight,2021,6,UK,83760.0,0
+Disguise Delight,2021,7,UK,63370.0,0
+Disguise Delight,2021,8,UK,409393.0,1
+Disguise Delight,2021,9,UK,0.0,0
+Disguise Delight,2021,10,UK,108252.0,0
+Disguise Delight,2021,11,UK,246907.0,1
+Disguise Delight,2021,12,UK,93214.0,0
+Disguise Delight,2022,1,UK,0.0,0
+Disguise Delight,2022,2,UK,374095.0,1
+Disguise Delight,2022,3,UK,100692.0,0
+Disguise Delight,2022,4,UK,93380.0,0
+Disguise Delight,2022,5,UK,81461.0,0
+Disguise Delight,2022,6,UK,106584.0,0
+Disguise Delight,2022,7,UK,83853.0,0
+Disguise Delight,2022,8,UK,501577.0,1
+Disguise Delight,2022,9,UK,0.0,0
+Disguise Delight,2022,10,UK,128450.0,0
+Disguise Delight,2022,11,UK,290473.0,1
+Disguise Delight,2022,12,UK,111458.0,0
+Disguise Delight,2023,1,UK,0.0,0
+Disguise Delight,2023,2,UK,362639.0,1
+Disguise Delight,2023,3,UK,127774.0,0
+Disguise Delight,2023,4,UK,166748.0,0
+Disguise Delight,2023,5,UK,167925.0,0
+Disguise Delight,2023,6,UK,90601.0,0
+Disguise Delight,2023,7,UK,89951.0,0
+Disguise Delight,2023,8,UK,500683.0,1
+Disguise Delight,2023,9,UK,0.0,0
+Disguise Delight,2023,10,UK,92016.0,0
+Disguise Delight,2023,11,UK,341540.0,1
+Disguise Delight,2023,12,UK,136148.0,0
+Disguise Delight,2024,1,UK,0.0,0
+Disguise Delight,2024,2,UK,250733.0,1
+Disguise Delight,2024,3,UK,102050.0,0
+Disguise Delight,2024,4,UK,73432.0,0
+Disguise Delight,2024,5,UK,55702.0,0
+Disguise Delight,2024,6,UK,67267.0,0
+Disguise Delight,2024,7,UK,78147.0,0
+Disguise Delight,2024,8,UK,348215.0,1
+Disguise Delight,2024,9,UK,0.0,0
+Disguise Delight,2024,10,UK,68809.0,0
+Disguise Delight,2024,11,UK,174276.0,1
+Disguise Delight,2024,12,UK,87246.0,0
+Disguise Delight,2025,1,UK,0.0,0
+Disguise Delight,2025,2,UK,228093.0,1
+The Party Vault,2021,1,UK,0.0,0
+The Party Vault,2021,2,UK,233635.0,1
+The Party Vault,2021,3,UK,106832.0,0
+The Party Vault,2021,4,UK,91462.0,0
+The Party Vault,2021,5,UK,106247.0,0
+The Party Vault,2021,6,UK,0.0,0
+The Party Vault,2021,7,UK,0.0,0
+The Party Vault,2021,8,UK,0.0,0
+The Party Vault,2021,9,UK,382095.0,1
+The Party Vault,2021,10,UK,87543.0,0
+The Party Vault,2021,11,UK,211590.0,1
+The Party Vault,2021,12,UK,0.0,0
+The Party Vault,2022,1,UK,0.0,0
+The Party Vault,2022,2,UK,317504.0,1
+The Party Vault,2022,3,UK,123224.0,0
+The Party Vault,2022,4,UK,167108.0,0
+The Party Vault,2022,5,UK,123120.0,0
+The Party Vault,2022,6,UK,0.0,0
+The Party Vault,2022,7,UK,0.0,0
+The Party Vault,2022,8,UK,0.0,0
+The Party Vault,2022,9,UK,578925.0,1
+The Party Vault,2022,10,UK,144480.0,0
+The Party Vault,2022,11,UK,271791.0,1
+The Party Vault,2022,12,UK,0.0,0
+The Party Vault,2023,1,UK,0.0,0
+The Party Vault,2023,2,UK,323537.0,1
+The Party Vault,2023,3,UK,116318.0,0
+The Party Vault,2023,4,UK,148049.0,0
+The Party Vault,2023,5,UK,139646.0,0
+The Party Vault,2023,6,UK,0.0,0
+The Party Vault,2023,7,UK,0.0,0
+The Party Vault,2023,8,UK,0.0,0
+The Party Vault,2023,9,UK,491648.0,1
+The Party Vault,2023,10,UK,162220.0,0
+The Party Vault,2023,11,UK,223450.0,1
+The Party Vault,2023,12,UK,0.0,0
+The Party Vault,2024,1,UK,0.0,0
+The Party Vault,2024,2,UK,197996.0,1
+The Party Vault,2024,3,UK,96560.0,0
+The Party Vault,2024,4,UK,49078.0,0
+The Party Vault,2024,5,UK,96749.0,0
+The Party Vault,2024,6,UK,0.0,0
+The Party Vault,2024,7,UK,0.0,0
+The Party Vault,2024,8,UK,0.0,0
+The Party Vault,2024,9,UK,277907.0,1
+The Party Vault,2024,10,UK,93478.0,0
+The Party Vault,2024,11,UK,149614.0,1
+The Party Vault,2024,12,UK,0.0,0
+The Party Vault,2025,1,UK,0.0,0
+The Party Vault,2025,2,UK,255511.0,1
+Wicked Wigs,2021,1,EU,288248.0,1
+Wicked Wigs,2021,2,EU,0.0,0
+Wicked Wigs,2021,3,EU,101352.0,0
+Wicked Wigs,2021,4,EU,71717.0,0
+Wicked Wigs,2021,5,EU,70146.0,0
+Wicked Wigs,2021,6,EU,112354.0,0
+Wicked Wigs,2021,7,EU,121463.0,0
+Wicked Wigs,2021,8,EU,410268.0,1
+Wicked Wigs,2021,9,EU,320831.0,1
+Wicked Wigs,2021,10,EU,119840.0,0
+Wicked Wigs,2021,11,EU,233331.0,1
+Wicked Wigs,2021,12,EU,116695.0,0
+Wicked Wigs,2022,1,EU,488948.0,1
+Wicked Wigs,2022,2,EU,0.0,0
+Wicked Wigs,2022,3,EU,154971.0,0
+Wicked Wigs,2022,4,EU,82435.0,0
+Wicked Wigs,2022,5,EU,154876.0,0
+Wicked Wigs,2022,6,EU,94468.0,0
+Wicked Wigs,2022,7,EU,139717.0,0
+Wicked Wigs,2022,8,EU,593981.0,1
+Wicked Wigs,2022,9,EU,579909.0,1
+Wicked Wigs,2022,10,EU,136271.0,0
+Wicked Wigs,2022,11,EU,278524.0,1
+Wicked Wigs,2022,12,EU,126588.0,0
+Wicked Wigs,2023,1,EU,403771.0,1
+Wicked Wigs,2023,2,EU,0.0,0
+Wicked Wigs,2023,3,EU,115202.0,0
+Wicked Wigs,2023,4,EU,119057.0,0
+Wicked Wigs,2023,5,EU,137600.0,0
+Wicked Wigs,2023,6,EU,162763.0,0
+Wicked Wigs,2023,7,EU,82420.0,0
+Wicked Wigs,2023,8,EU,550290.0,1
+Wicked Wigs,2023,9,EU,498362.0,1
+Wicked Wigs,2023,10,EU,168501.0,0
+Wicked Wigs,2023,11,EU,272573.0,1
+Wicked Wigs,2023,12,EU,169922.0,0
+Wicked Wigs,2024,1,EU,247388.0,1
+Wicked Wigs,2024,2,EU,0.0,0
+Wicked Wigs,2024,3,EU,43901.0,0
+Wicked Wigs,2024,4,EU,91166.0,0
+Wicked Wigs,2024,5,EU,88629.0,0
+Wicked Wigs,2024,6,EU,88520.0,0
+Wicked Wigs,2024,7,EU,71830.0,0
+Wicked Wigs,2024,8,EU,349669.0,1
+Wicked Wigs,2024,9,EU,309517.0,1
+Wicked Wigs,2024,10,EU,47629.0,0
+Wicked Wigs,2024,11,EU,178012.0,1
+Wicked Wigs,2024,12,EU,57092.0,0
+Wicked Wigs,2025,1,EU,273433.0,1
+Wicked Wigs,2025,2,EU,0.0,0
+Enchanted Attire,2021,1,UK,0.0,0
+Enchanted Attire,2021,2,UK,0.0,0
+Enchanted Attire,2021,3,UK,95787.0,0
+Enchanted Attire,2021,4,UK,110831.0,0
+Enchanted Attire,2021,5,UK,52205.0,0
+Enchanted Attire,2021,6,UK,117457.0,0
+Enchanted Attire,2021,7,UK,62331.0,0
+Enchanted Attire,2021,8,UK,376154.0,1
+Enchanted Attire,2021,9,UK,458125.0,1
+Enchanted Attire,2021,10,UK,81611.0,0
+Enchanted Attire,2021,11,UK,254769.0,1
+Enchanted Attire,2021,12,UK,116026.0,0
+Enchanted Attire,2022,1,UK,0.0,0
+Enchanted Attire,2022,2,UK,0.0,0
+Enchanted Attire,2022,3,UK,156450.0,0
+Enchanted Attire,2022,4,UK,99583.0,0
+Enchanted Attire,2022,5,UK,155693.0,0
+Enchanted Attire,2022,6,UK,155906.0,0
+Enchanted Attire,2022,7,UK,79147.0,0
+Enchanted Attire,2022,8,UK,495691.0,1
+Enchanted Attire,2022,9,UK,437308.0,1
+Enchanted Attire,2022,10,UK,135122.0,0
+Enchanted Attire,2022,11,UK,300848.0,1
+Enchanted Attire,2022,12,UK,75075.0,0
+Enchanted Attire,2023,1,UK,0.0,0
+Enchanted Attire,2023,2,UK,0.0,0
+Enchanted Attire,2023,3,UK,136780.0,0
+Enchanted Attire,2023,4,UK,147028.0,0
+Enchanted Attire,2023,5,UK,150013.0,0
+Enchanted Attire,2023,6,UK,116734.0,0
+Enchanted Attire,2023,7,UK,82227.0,0
+Enchanted Attire,2023,8,UK,458321.0,1
+Enchanted Attire,2023,9,UK,484186.0,1
+Enchanted Attire,2023,10,UK,80873.0,0
+Enchanted Attire,2023,11,UK,305328.0,1
+Enchanted Attire,2023,12,UK,125943.0,0
+Enchanted Attire,2024,1,UK,0.0,0
+Enchanted Attire,2024,2,UK,0.0,0
+Enchanted Attire,2024,3,UK,71010.0,0
+Enchanted Attire,2024,4,UK,44244.0,0
+Enchanted Attire,2024,5,UK,64794.0,0
+Enchanted Attire,2024,6,UK,51136.0,0
+Enchanted Attire,2024,7,UK,96446.0,0
+Enchanted Attire,2024,8,UK,353592.0,1
+Enchanted Attire,2024,9,UK,325198.0,1
+Enchanted Attire,2024,10,UK,57773.0,0
+Enchanted Attire,2024,11,UK,139066.0,1
+Enchanted Attire,2024,12,UK,93115.0,0
+Enchanted Attire,2025,1,UK,0.0,0
+Enchanted Attire,2025,2,UK,0.0,0
+Masquerade Manor,2021,1,UK,0.0,0
+Masquerade Manor,2021,2,UK,261669.0,1
+Masquerade Manor,2021,3,UK,94654.0,0
+Masquerade Manor,2021,4,UK,0.0,0
+Masquerade Manor,2021,5,UK,62769.0,0
+Masquerade Manor,2021,6,UK,76137.0,0
+Masquerade Manor,2021,7,UK,66266.0,0
+Masquerade Manor,2021,8,UK,420829.0,1
+Masquerade Manor,2021,9,UK,447109.0,1
+Masquerade Manor,2021,10,UK,95065.0,0
+Masquerade Manor,2021,11,UK,0.0,0
+Masquerade Manor,2021,12,UK,82654.0,0
+Masquerade Manor,2022,1,UK,0.0,0
+Masquerade Manor,2022,2,UK,310414.0,1
+Masquerade Manor,2022,3,UK,157866.0,0
+Masquerade Manor,2022,4,UK,0.0,0
+Masquerade Manor,2022,5,UK,83721.0,0
+Masquerade Manor,2022,6,UK,82069.0,0
+Masquerade Manor,2022,7,UK,141541.0,0
+Masquerade Manor,2022,8,UK,493822.0,1
+Masquerade Manor,2022,9,UK,510172.0,1
+Masquerade Manor,2022,10,UK,147526.0,0
+Masquerade Manor,2022,11,UK,0.0,0
+Masquerade Manor,2022,12,UK,94283.0,0
+Masquerade Manor,2023,1,UK,0.0,0
+Masquerade Manor,2023,2,UK,385674.0,1
+Masquerade Manor,2023,3,UK,98250.0,0
+Masquerade Manor,2023,4,UK,0.0,0
+Masquerade Manor,2023,5,UK,134269.0,0
+Masquerade Manor,2023,6,UK,146537.0,0
+Masquerade Manor,2023,7,UK,102002.0,0
+Masquerade Manor,2023,8,UK,643405.0,1
+Masquerade Manor,2023,9,UK,443368.0,1
+Masquerade Manor,2023,10,UK,159388.0,0
+Masquerade Manor,2023,11,UK,0.0,0
+Masquerade Manor,2023,12,UK,162324.0,0
+Masquerade Manor,2024,1,UK,0.0,0
+Masquerade Manor,2024,2,UK,192977.0,1
+Masquerade Manor,2024,3,UK,80924.0,0
+Masquerade Manor,2024,4,UK,0.0,0
+Masquerade Manor,2024,5,UK,55305.0,0
+Masquerade Manor,2024,6,UK,67745.0,0
+Masquerade Manor,2024,7,UK,83328.0,0
+Masquerade Manor,2024,8,UK,365374.0,1
+Masquerade Manor,2024,9,UK,366683.0,1
+Masquerade Manor,2024,10,UK,58410.0,0
+Masquerade Manor,2024,11,UK,0.0,0
+Masquerade Manor,2024,12,UK,67385.0,0
+Masquerade Manor,2025,1,UK,0.0,0
+Masquerade Manor,2025,2,UK,209168.0,1
+Phantom Threads,2021,1,UK,0.0,0
+Phantom Threads,2021,2,UK,301600.0,1
+Phantom Threads,2021,3,UK,106091.0,0
+Phantom Threads,2021,4,UK,52234.0,0
+Phantom Threads,2021,5,UK,55867.0,0
+Phantom Threads,2021,6,UK,69777.0,0
+Phantom Threads,2021,7,UK,53888.0,0
+Phantom Threads,2021,8,UK,315509.0,1
+Phantom Threads,2021,9,UK,427110.0,1
+Phantom Threads,2021,10,UK,87243.0,0
+Phantom Threads,2021,11,UK,217292.0,1
+Phantom Threads,2021,12,UK,86846.0,0
+Phantom Threads,2022,1,UK,0.0,0
+Phantom Threads,2022,2,UK,338160.0,1
+Phantom Threads,2022,3,UK,138777.0,0
+Phantom Threads,2022,4,UK,78078.0,0
+Phantom Threads,2022,5,UK,122583.0,0
+Phantom Threads,2022,6,UK,130373.0,0
+Phantom Threads,2022,7,UK,97192.0,0
+Phantom Threads,2022,8,UK,485080.0,1
+Phantom Threads,2022,9,UK,527374.0,1
+Phantom Threads,2022,10,UK,89913.0,0
+Phantom Threads,2022,11,UK,323128.0,1
+Phantom Threads,2022,12,UK,122566.0,0
+Phantom Threads,2023,1,UK,0.0,0
+Phantom Threads,2023,2,UK,348648.0,1
+Phantom Threads,2023,3,UK,137668.0,0
+Phantom Threads,2023,4,UK,158108.0,0
+Phantom Threads,2023,5,UK,142441.0,0
+Phantom Threads,2023,6,UK,79666.0,0
+Phantom Threads,2023,7,UK,144240.0,0
+Phantom Threads,2023,8,UK,597178.0,1
+Phantom Threads,2023,9,UK,622665.0,1
+Phantom Threads,2023,10,UK,78828.0,0
+Phantom Threads,2023,11,UK,231323.0,1
+Phantom Threads,2023,12,UK,117270.0,0
+Phantom Threads,2024,1,UK,0.0,0
+Phantom Threads,2024,2,UK,214670.0,1
+Phantom Threads,2024,3,UK,81041.0,0
+Phantom Threads,2024,4,UK,62694.0,0
+Phantom Threads,2024,5,UK,89179.0,0
+Phantom Threads,2024,6,UK,89115.0,0
+Phantom Threads,2024,7,UK,51066.0,0
+Phantom Threads,2024,8,UK,355412.0,1
+Phantom Threads,2024,9,UK,354572.0,1
+Phantom Threads,2024,10,UK,53785.0,0
+Phantom Threads,2024,11,UK,214639.0,1
+Phantom Threads,2024,12,UK,75784.0,0
+Phantom Threads,2025,1,UK,0.0,0
+Phantom Threads,2025,2,UK,259745.0,1
+Trick & Treat Trends,2021,1,EU,282051.0,1
+Trick & Treat Trends,2021,2,EU,0.0,0
+Trick & Treat Trends,2021,3,EU,120717.0,0
+Trick & Treat Trends,2021,4,EU,95884.0,0
+Trick & Treat Trends,2021,5,EU,86496.0,0
+Trick & Treat Trends,2021,6,EU,87541.0,0
+Trick & Treat Trends,2021,7,EU,55003.0,0
+Trick & Treat Trends,2021,8,EU,437839.0,1
+Trick & Treat Trends,2021,9,EU,0.0,0
+Trick & Treat Trends,2021,10,EU,0.0,0
+Trick & Treat Trends,2021,11,EU,170161.0,1
+Trick & Treat Trends,2021,12,EU,0.0,0
+Trick & Treat Trends,2022,1,EU,372023.0,1
+Trick & Treat Trends,2022,2,EU,0.0,0
+Trick & Treat Trends,2022,3,EU,145786.0,0
+Trick & Treat Trends,2022,4,EU,157638.0,0
+Trick & Treat Trends,2022,5,EU,136064.0,0
+Trick & Treat Trends,2022,6,EU,81303.0,0
+Trick & Treat Trends,2022,7,EU,142596.0,0
+Trick & Treat Trends,2022,8,EU,420539.0,1
+Trick & Treat Trends,2022,9,EU,0.0,0
+Trick & Treat Trends,2022,10,EU,0.0,0
+Trick & Treat Trends,2022,11,EU,330216.0,1
+Trick & Treat Trends,2022,12,EU,0.0,0
+Trick & Treat Trends,2023,1,EU,366375.0,1
+Trick & Treat Trends,2023,2,EU,0.0,0
+Trick & Treat Trends,2023,3,EU,77611.0,0
+Trick & Treat Trends,2023,4,EU,110073.0,0
+Trick & Treat Trends,2023,5,EU,166856.0,0
+Trick & Treat Trends,2023,6,EU,91186.0,0
+Trick & Treat Trends,2023,7,EU,170952.0,0
+Trick & Treat Trends,2023,8,EU,445236.0,1
+Trick & Treat Trends,2023,9,EU,0.0,0
+Trick & Treat Trends,2023,10,EU,0.0,0
+Trick & Treat Trends,2023,11,EU,335871.0,1
+Trick & Treat Trends,2023,12,EU,0.0,0
+Trick & Treat Trends,2024,1,EU,281227.0,1
+Trick & Treat Trends,2024,2,EU,0.0,0
+Trick & Treat Trends,2024,3,EU,83912.0,0
+Trick & Treat Trends,2024,4,EU,57502.0,0
+Trick & Treat Trends,2024,5,EU,58956.0,0
+Trick & Treat Trends,2024,6,EU,99846.0,0
+Trick & Treat Trends,2024,7,EU,63346.0,0
+Trick & Treat Trends,2024,8,EU,370912.0,1
+Trick & Treat Trends,2024,9,EU,0.0,0
+Trick & Treat Trends,2024,10,EU,0.0,0
+Trick & Treat Trends,2024,11,EU,181259.0,1
+Trick & Treat Trends,2024,12,EU,0.0,0
+Trick & Treat Trends,2025,1,EU,244477.0,1
+Trick & Treat Trends,2025,2,EU,0.0,0
+Cosplay Kingdom,2021,1,UK,0.0,0
+Cosplay Kingdom,2021,2,UK,212985.0,1
+Cosplay Kingdom,2021,3,UK,83680.0,0
+Cosplay Kingdom,2021,4,UK,77404.0,0
+Cosplay Kingdom,2021,5,UK,71879.0,0
+Cosplay Kingdom,2021,6,UK,107101.0,0
+Cosplay Kingdom,2021,7,UK,103891.0,0
+Cosplay Kingdom,2021,8,UK,0.0,0
+Cosplay Kingdom,2021,9,UK,343396.0,1
+Cosplay Kingdom,2021,10,UK,0.0,0
+Cosplay Kingdom,2021,11,UK,0.0,0
+Cosplay Kingdom,2021,12,UK,77358.0,0
+Cosplay Kingdom,2022,1,UK,0.0,0
+Cosplay Kingdom,2022,2,UK,416060.0,1
+Cosplay Kingdom,2022,3,UK,167783.0,0
+Cosplay Kingdom,2022,4,UK,146037.0,0
+Cosplay Kingdom,2022,5,UK,141781.0,0
+Cosplay Kingdom,2022,6,UK,123563.0,0
+Cosplay Kingdom,2022,7,UK,148005.0,0
+Cosplay Kingdom,2022,8,UK,0.0,0
+Cosplay Kingdom,2022,9,UK,451619.0,1
+Cosplay Kingdom,2022,10,UK,0.0,0
+Cosplay Kingdom,2022,11,UK,0.0,0
+Cosplay Kingdom,2022,12,UK,161375.0,0
+Cosplay Kingdom,2023,1,UK,0.0,0
+Cosplay Kingdom,2023,2,UK,295154.0,1
+Cosplay Kingdom,2023,3,UK,128199.0,0
+Cosplay Kingdom,2023,4,UK,137836.0,0
+Cosplay Kingdom,2023,5,UK,143707.0,0
+Cosplay Kingdom,2023,6,UK,73896.0,0
+Cosplay Kingdom,2023,7,UK,107116.0,0
+Cosplay Kingdom,2023,8,UK,0.0,0
+Cosplay Kingdom,2023,9,UK,603516.0,1
+Cosplay Kingdom,2023,10,UK,0.0,0
+Cosplay Kingdom,2023,11,UK,0.0,0
+Cosplay Kingdom,2023,12,UK,111328.0,0
+Cosplay Kingdom,2024,1,UK,0.0,0
+Cosplay Kingdom,2024,2,UK,239582.0,1
+Cosplay Kingdom,2024,3,UK,62585.0,0
+Cosplay Kingdom,2024,4,UK,56318.0,0
+Cosplay Kingdom,2024,5,UK,103966.0,0
+Cosplay Kingdom,2024,6,UK,69464.0,0
+Cosplay Kingdom,2024,7,UK,102623.0,0
+Cosplay Kingdom,2024,8,UK,0.0,0
+Cosplay Kingdom,2024,9,UK,390148.0,1
+Cosplay Kingdom,2024,10,UK,0.0,0
+Cosplay Kingdom,2024,11,UK,0.0,0
+Cosplay Kingdom,2024,12,UK,52470.0,0
+Cosplay Kingdom,2025,1,UK,0.0,0
+Cosplay Kingdom,2025,2,UK,212784.0,1
+Fancy Dress Emporium,2021,1,UK,0.0,0
+Fancy Dress Emporium,2021,2,UK,269216.0,1
+Fancy Dress Emporium,2021,3,UK,0.0,0
+Fancy Dress Emporium,2021,4,UK,0.0,0
+Fancy Dress Emporium,2021,5,UK,79221.0,0
+Fancy Dress Emporium,2021,6,UK,93338.0,0
+Fancy Dress Emporium,2021,7,UK,55492.0,0
+Fancy Dress Emporium,2021,8,UK,407687.0,1
+Fancy Dress Emporium,2021,9,UK,326265.0,1
+Fancy Dress Emporium,2021,10,UK,0.0,0
+Fancy Dress Emporium,2021,11,UK,182900.0,1
+Fancy Dress Emporium,2021,12,UK,111847.0,0
+Fancy Dress Emporium,2022,1,UK,0.0,0
+Fancy Dress Emporium,2022,2,UK,409646.0,1
+Fancy Dress Emporium,2022,3,UK,0.0,0
+Fancy Dress Emporium,2022,4,UK,0.0,0
+Fancy Dress Emporium,2022,5,UK,108509.0,0
+Fancy Dress Emporium,2022,6,UK,151526.0,0
+Fancy Dress Emporium,2022,7,UK,101973.0,0
+Fancy Dress Emporium,2022,8,UK,515079.0,1
+Fancy Dress Emporium,2022,9,UK,469058.0,1
+Fancy Dress Emporium,2022,10,UK,0.0,0
+Fancy Dress Emporium,2022,11,UK,342098.0,1
+Fancy Dress Emporium,2022,12,UK,83339.0,0
+Fancy Dress Emporium,2023,1,UK,0.0,0
+Fancy Dress Emporium,2023,2,UK,403980.0,1
+Fancy Dress Emporium,2023,3,UK,0.0,0
+Fancy Dress Emporium,2023,4,UK,0.0,0
+Fancy Dress Emporium,2023,5,UK,84041.0,0
+Fancy Dress Emporium,2023,6,UK,83703.0,0
+Fancy Dress Emporium,2023,7,UK,118810.0,0
+Fancy Dress Emporium,2023,8,UK,506195.0,1
+Fancy Dress Emporium,2023,9,UK,463911.0,1
+Fancy Dress Emporium,2023,10,UK,0.0,0
+Fancy Dress Emporium,2023,11,UK,271000.0,1
+Fancy Dress Emporium,2023,12,UK,151555.0,0
+Fancy Dress Emporium,2024,1,UK,0.0,0
+Fancy Dress Emporium,2024,2,UK,214543.0,1
+Fancy Dress Emporium,2024,3,UK,0.0,0
+Fancy Dress Emporium,2024,4,UK,0.0,0
+Fancy Dress Emporium,2024,5,UK,72130.0,0
+Fancy Dress Emporium,2024,6,UK,95965.0,0
+Fancy Dress Emporium,2024,7,UK,49288.0,0
+Fancy Dress Emporium,2024,8,UK,368497.0,1
+Fancy Dress Emporium,2024,9,UK,302428.0,1
+Fancy Dress Emporium,2024,10,UK,0.0,0
+Fancy Dress Emporium,2024,11,UK,192912.0,1
+Fancy Dress Emporium,2024,12,UK,80702.0,0
+Fancy Dress Emporium,2025,1,UK,0.0,0
+Fancy Dress Emporium,2025,2,UK,206735.0,1
+The Haunted Wardrobe,2021,1,EU,258381.0,1
+The Haunted Wardrobe,2021,2,EU,0.0,0
+The Haunted Wardrobe,2021,3,EU,79939.0,0
+The Haunted Wardrobe,2021,4,EU,83355.0,0
+The Haunted Wardrobe,2021,5,EU,0.0,0
+The Haunted Wardrobe,2021,6,EU,104498.0,0
+The Haunted Wardrobe,2021,7,EU,68896.0,0
+The Haunted Wardrobe,2021,8,EU,0.0,0
+The Haunted Wardrobe,2021,9,EU,377000.0,1
+The Haunted Wardrobe,2021,10,EU,108487.0,0
+The Haunted Wardrobe,2021,11,EU,0.0,0
+The Haunted Wardrobe,2021,12,EU,61031.0,0
+The Haunted Wardrobe,2022,1,EU,351674.0,1
+The Haunted Wardrobe,2022,2,EU,0.0,0
+The Haunted Wardrobe,2022,3,EU,151376.0,0
+The Haunted Wardrobe,2022,4,EU,166292.0,0
+The Haunted Wardrobe,2022,5,EU,0.0,0
+The Haunted Wardrobe,2022,6,EU,82810.0,0
+The Haunted Wardrobe,2022,7,EU,150720.0,0
+The Haunted Wardrobe,2022,8,EU,0.0,0
+The Haunted Wardrobe,2022,9,EU,498170.0,1
+The Haunted Wardrobe,2022,10,EU,131769.0,0
+The Haunted Wardrobe,2022,11,EU,0.0,0
+The Haunted Wardrobe,2022,12,EU,133179.0,0
+The Haunted Wardrobe,2023,1,EU,449506.0,1
+The Haunted Wardrobe,2023,2,EU,0.0,0
+The Haunted Wardrobe,2023,3,EU,99338.0,0
+The Haunted Wardrobe,2023,4,EU,155885.0,0
+The Haunted Wardrobe,2023,5,EU,0.0,0
+The Haunted Wardrobe,2023,6,EU,75142.0,0
+The Haunted Wardrobe,2023,7,EU,79498.0,0
+The Haunted Wardrobe,2023,8,EU,0.0,0
+The Haunted Wardrobe,2023,9,EU,634921.0,1
+The Haunted Wardrobe,2023,10,EU,118184.0,0
+The Haunted Wardrobe,2023,11,EU,0.0,0
+The Haunted Wardrobe,2023,12,EU,86064.0,0
+The Haunted Wardrobe,2024,1,EU,297944.0,1
+The Haunted Wardrobe,2024,2,EU,0.0,0
+The Haunted Wardrobe,2024,3,EU,94548.0,0
+The Haunted Wardrobe,2024,4,EU,64057.0,0
+The Haunted Wardrobe,2024,5,EU,0.0,0
+The Haunted Wardrobe,2024,6,EU,46365.0,0
+The Haunted Wardrobe,2024,7,EU,71986.0,0
+The Haunted Wardrobe,2024,8,EU,0.0,0
+The Haunted Wardrobe,2024,9,EU,284549.0,1
+The Haunted Wardrobe,2024,10,EU,78900.0,0
+The Haunted Wardrobe,2024,11,EU,0.0,0
+The Haunted Wardrobe,2024,12,EU,94078.0,0
+The Haunted Wardrobe,2025,1,EU,270200.0,1
+The Haunted Wardrobe,2025,2,EU,0.0,0
+Festival Fashions,2021,1,UK,0.0,0
+Festival Fashions,2021,2,UK,266857.0,1
+Festival Fashions,2021,3,UK,95130.0,0
+Festival Fashions,2021,4,UK,97295.0,0
+Festival Fashions,2021,5,UK,86692.0,0
+Festival Fashions,2021,6,UK,114124.0,0
+Festival Fashions,2021,7,UK,85272.0,0
+Festival Fashions,2021,8,UK,319682.0,1
+Festival Fashions,2021,9,UK,364899.0,1
+Festival Fashions,2021,10,UK,80999.0,0
+Festival Fashions,2021,11,UK,218729.0,1
+Festival Fashions,2021,12,UK,0.0,0
+Festival Fashions,2022,1,UK,0.0,0
+Festival Fashions,2022,2,UK,391608.0,1
+Festival Fashions,2022,3,UK,94416.0,0
+Festival Fashions,2022,4,UK,167421.0,0
+Festival Fashions,2022,5,UK,123278.0,0
+Festival Fashions,2022,6,UK,71914.0,0
+Festival Fashions,2022,7,UK,107485.0,0
+Festival Fashions,2022,8,UK,569808.0,1
+Festival Fashions,2022,9,UK,520734.0,1
+Festival Fashions,2022,10,UK,146581.0,0
+Festival Fashions,2022,11,UK,258165.0,1
+Festival Fashions,2022,12,UK,0.0,0
+Festival Fashions,2023,1,UK,0.0,0
+Festival Fashions,2023,2,UK,374157.0,1
+Festival Fashions,2023,3,UK,105747.0,0
+Festival Fashions,2023,4,UK,100524.0,0
+Festival Fashions,2023,5,UK,75577.0,0
+Festival Fashions,2023,6,UK,133872.0,0
+Festival Fashions,2023,7,UK,75908.0,0
+Festival Fashions,2023,8,UK,614838.0,1
+Festival Fashions,2023,9,UK,498954.0,1
+Festival Fashions,2023,10,UK,155467.0,0
+Festival Fashions,2023,11,UK,287537.0,1
+Festival Fashions,2023,12,UK,0.0,0
+Festival Fashions,2024,1,UK,0.0,0
+Festival Fashions,2024,2,UK,206275.0,1
+Festival Fashions,2024,3,UK,79519.0,0
+Festival Fashions,2024,4,UK,58007.0,0
+Festival Fashions,2024,5,UK,53527.0,0
+Festival Fashions,2024,6,UK,58931.0,0
+Festival Fashions,2024,7,UK,58521.0,0
+Festival Fashions,2024,8,UK,332547.0,1
+Festival Fashions,2024,9,UK,366350.0,1
+Festival Fashions,2024,10,UK,88895.0,0
+Festival Fashions,2024,11,UK,198104.0,1
+Festival Fashions,2024,12,UK,0.0,0
+Festival Fashions,2025,1,UK,0.0,0
+Festival Fashions,2025,2,UK,275128.0,1
+Eerie Ensembles,2021,1,EU,352021.0,1
+Eerie Ensembles,2021,2,EU,0.0,0
+Eerie Ensembles,2021,3,EU,110831.0,0
+Eerie Ensembles,2021,4,EU,108952.0,0
+Eerie Ensembles,2021,5,EU,120384.0,0
+Eerie Ensembles,2021,6,EU,89781.0,0
+Eerie Ensembles,2021,7,EU,63587.0,0
+Eerie Ensembles,2021,8,EU,0.0,0
+Eerie Ensembles,2021,9,EU,312063.0,1
+Eerie Ensembles,2021,10,EU,0.0,0
+Eerie Ensembles,2021,11,EU,158859.0,1
+Eerie Ensembles,2021,12,EU,94035.0,0
+Eerie Ensembles,2022,1,EU,352790.0,1
+Eerie Ensembles,2022,2,EU,0.0,0
+Eerie Ensembles,2022,3,EU,116843.0,0
+Eerie Ensembles,2022,4,EU,102510.0,0
+Eerie Ensembles,2022,5,EU,130185.0,0
+Eerie Ensembles,2022,6,EU,149032.0,0
+Eerie Ensembles,2022,7,EU,103394.0,0
+Eerie Ensembles,2022,8,EU,0.0,0
+Eerie Ensembles,2022,9,EU,457267.0,1
+Eerie Ensembles,2022,10,EU,0.0,0
+Eerie Ensembles,2022,11,EU,322339.0,1
+Eerie Ensembles,2022,12,EU,155085.0,0
+Eerie Ensembles,2023,1,EU,373269.0,1
+Eerie Ensembles,2023,2,EU,0.0,0
+Eerie Ensembles,2023,3,EU,87996.0,0
+Eerie Ensembles,2023,4,EU,144854.0,0
+Eerie Ensembles,2023,5,EU,87377.0,0
+Eerie Ensembles,2023,6,EU,84240.0,0
+Eerie Ensembles,2023,7,EU,126643.0,0
+Eerie Ensembles,2023,8,EU,0.0,0
+Eerie Ensembles,2023,9,EU,517320.0,1
+Eerie Ensembles,2023,10,EU,0.0,0
+Eerie Ensembles,2023,11,EU,229328.0,1
+Eerie Ensembles,2023,12,EU,144838.0,0
+Eerie Ensembles,2024,1,EU,276687.0,1
+Eerie Ensembles,2024,2,EU,0.0,0
+Eerie Ensembles,2024,3,EU,79644.0,0
+Eerie Ensembles,2024,4,EU,64364.0,0
+Eerie Ensembles,2024,5,EU,63509.0,0
+Eerie Ensembles,2024,6,EU,103521.0,0
+Eerie Ensembles,2024,7,EU,88607.0,0
+Eerie Ensembles,2024,8,EU,0.0,0
+Eerie Ensembles,2024,9,EU,319839.0,1
+Eerie Ensembles,2024,10,EU,0.0,0
+Eerie Ensembles,2024,11,EU,187186.0,1
+Eerie Ensembles,2024,12,EU,73591.0,0
+Eerie Ensembles,2025,1,EU,262946.0,1
+Eerie Ensembles,2025,2,EU,0.0,0
+Bizarre Bazaar,2021,1,EU,0.0,0
+Bizarre Bazaar,2021,2,EU,0.0,0
+Bizarre Bazaar,2021,3,EU,63740.0,0
+Bizarre Bazaar,2021,4,EU,0.0,0
+Bizarre Bazaar,2021,5,EU,51170.0,0
+Bizarre Bazaar,2021,6,EU,101206.0,0
+Bizarre Bazaar,2021,7,EU,91975.0,0
+Bizarre Bazaar,2021,8,EU,0.0,0
+Bizarre Bazaar,2021,9,EU,436522.0,1
+Bizarre Bazaar,2021,10,EU,106124.0,0
+Bizarre Bazaar,2021,11,EU,211056.0,1
+Bizarre Bazaar,2021,12,EU,64053.0,0
+Bizarre Bazaar,2022,1,EU,0.0,0
+Bizarre Bazaar,2022,2,EU,0.0,0
+Bizarre Bazaar,2022,3,EU,101185.0,0
+Bizarre Bazaar,2022,4,EU,0.0,0
+Bizarre Bazaar,2022,5,EU,149263.0,0
+Bizarre Bazaar,2022,6,EU,129915.0,0
+Bizarre Bazaar,2022,7,EU,132685.0,0
+Bizarre Bazaar,2022,8,EU,0.0,0
+Bizarre Bazaar,2022,9,EU,441863.0,1
+Bizarre Bazaar,2022,10,EU,118626.0,0
+Bizarre Bazaar,2022,11,EU,256364.0,1
+Bizarre Bazaar,2022,12,EU,77625.0,0
+Bizarre Bazaar,2023,1,EU,0.0,0
+Bizarre Bazaar,2023,2,EU,0.0,0
+Bizarre Bazaar,2023,3,EU,108320.0,0
+Bizarre Bazaar,2023,4,EU,0.0,0
+Bizarre Bazaar,2023,5,EU,105534.0,0
+Bizarre Bazaar,2023,6,EU,137861.0,0
+Bizarre Bazaar,2023,7,EU,171231.0,0
+Bizarre Bazaar,2023,8,EU,0.0,0
+Bizarre Bazaar,2023,9,EU,617239.0,1
+Bizarre Bazaar,2023,10,EU,141315.0,0
+Bizarre Bazaar,2023,11,EU,325104.0,1
+Bizarre Bazaar,2023,12,EU,107191.0,0
+Bizarre Bazaar,2024,1,EU,0.0,0
+Bizarre Bazaar,2024,2,EU,0.0,0
+Bizarre Bazaar,2024,3,EU,44448.0,0
+Bizarre Bazaar,2024,4,EU,0.0,0
+Bizarre Bazaar,2024,5,EU,56593.0,0
+Bizarre Bazaar,2024,6,EU,86207.0,0
+Bizarre Bazaar,2024,7,EU,65217.0,0
+Bizarre Bazaar,2024,8,EU,0.0,0
+Bizarre Bazaar,2024,9,EU,365796.0,1
+Bizarre Bazaar,2024,10,EU,87875.0,0
+Bizarre Bazaar,2024,11,EU,135463.0,1
+Bizarre Bazaar,2024,12,EU,70591.0,0
+Bizarre Bazaar,2025,1,EU,0.0,0
+Bizarre Bazaar,2025,2,EU,0.0,0
+Mystic Masquerade,2021,1,EU,271813.0,1
+Mystic Masquerade,2021,2,EU,0.0,0
+Mystic Masquerade,2021,3,EU,0.0,0
+Mystic Masquerade,2021,4,EU,56309.0,0
+Mystic Masquerade,2021,5,EU,111478.0,0
+Mystic Masquerade,2021,6,EU,72115.0,0
+Mystic Masquerade,2021,7,EU,73817.0,0
+Mystic Masquerade,2021,8,EU,451973.0,1
+Mystic Masquerade,2021,9,EU,0.0,0
+Mystic Masquerade,2021,10,EU,56344.0,0
+Mystic Masquerade,2021,11,EU,0.0,0
+Mystic Masquerade,2021,12,EU,63197.0,0
+Mystic Masquerade,2022,1,EU,402564.0,1
+Mystic Masquerade,2022,2,EU,0.0,0
+Mystic Masquerade,2022,3,EU,0.0,0
+Mystic Masquerade,2022,4,EU,141735.0,0
+Mystic Masquerade,2022,5,EU,123611.0,0
+Mystic Masquerade,2022,6,EU,158016.0,0
+Mystic Masquerade,2022,7,EU,79124.0,0
+Mystic Masquerade,2022,8,EU,544746.0,1
+Mystic Masquerade,2022,9,EU,0.0,0
+Mystic Masquerade,2022,10,EU,130137.0,0
+Mystic Masquerade,2022,11,EU,0.0,0
+Mystic Masquerade,2022,12,EU,117308.0,0
+Mystic Masquerade,2023,1,EU,369103.0,1
+Mystic Masquerade,2023,2,EU,0.0,0
+Mystic Masquerade,2023,3,EU,0.0,0
+Mystic Masquerade,2023,4,EU,169124.0,0
+Mystic Masquerade,2023,5,EU,89760.0,0
+Mystic Masquerade,2023,6,EU,163746.0,0
+Mystic Masquerade,2023,7,EU,88954.0,0
+Mystic Masquerade,2023,8,EU,459650.0,1
+Mystic Masquerade,2023,9,EU,0.0,0
+Mystic Masquerade,2023,10,EU,93900.0,0
+Mystic Masquerade,2023,11,EU,0.0,0
+Mystic Masquerade,2023,12,EU,92311.0,0
+Mystic Masquerade,2024,1,EU,279755.0,1
+Mystic Masquerade,2024,2,EU,0.0,0
+Mystic Masquerade,2024,3,EU,0.0,0
+Mystic Masquerade,2024,4,EU,87975.0,0
+Mystic Masquerade,2024,5,EU,88461.0,0
+Mystic Masquerade,2024,6,EU,59997.0,0
+Mystic Masquerade,2024,7,EU,60993.0,0
+Mystic Masquerade,2024,8,EU,293678.0,1
+Mystic Masquerade,2024,9,EU,0.0,0
+Mystic Masquerade,2024,10,EU,46790.0,0
+Mystic Masquerade,2024,11,EU,0.0,0
+Mystic Masquerade,2024,12,EU,78771.0,0
+Mystic Masquerade,2025,1,EU,311720.0,1
+Mystic Masquerade,2025,2,EU,0.0,0
+Theatrical Threads,2021,1,UK,0.0,0
+Theatrical Threads,2021,2,UK,253200.0,1
+Theatrical Threads,2021,3,UK,0.0,0
+Theatrical Threads,2021,4,UK,0.0,0
+Theatrical Threads,2021,5,UK,57972.0,0
+Theatrical Threads,2021,6,UK,65830.0,0
+Theatrical Threads,2021,7,UK,96646.0,0
+Theatrical Threads,2021,8,UK,455862.0,1
+Theatrical Threads,2021,9,UK,0.0,0
+Theatrical Threads,2021,10,UK,84882.0,0
+Theatrical Threads,2021,11,UK,0.0,0
+Theatrical Threads,2021,12,UK,59296.0,0
+Theatrical Threads,2022,1,UK,0.0,0
+Theatrical Threads,2022,2,UK,389883.0,1
+Theatrical Threads,2022,3,UK,0.0,0
+Theatrical Threads,2022,4,UK,0.0,0
+Theatrical Threads,2022,5,UK,116153.0,0
+Theatrical Threads,2022,6,UK,157698.0,0
+Theatrical Threads,2022,7,UK,95970.0,0
+Theatrical Threads,2022,8,UK,554792.0,1
+Theatrical Threads,2022,9,UK,0.0,0
+Theatrical Threads,2022,10,UK,107978.0,0
+Theatrical Threads,2022,11,UK,0.0,0
+Theatrical Threads,2022,12,UK,106360.0,0
+Theatrical Threads,2023,1,UK,0.0,0
+Theatrical Threads,2023,2,UK,347294.0,1
+Theatrical Threads,2023,3,UK,0.0,0
+Theatrical Threads,2023,4,UK,0.0,0
+Theatrical Threads,2023,5,UK,91964.0,0
+Theatrical Threads,2023,6,UK,77471.0,0
+Theatrical Threads,2023,7,UK,117807.0,0
+Theatrical Threads,2023,8,UK,495119.0,1
+Theatrical Threads,2023,9,UK,0.0,0
+Theatrical Threads,2023,10,UK,158368.0,0
+Theatrical Threads,2023,11,UK,0.0,0
+Theatrical Threads,2023,12,UK,130517.0,0
+Theatrical Threads,2024,1,UK,0.0,0
+Theatrical Threads,2024,2,UK,188224.0,1
+Theatrical Threads,2024,3,UK,0.0,0
+Theatrical Threads,2024,4,UK,0.0,0
+Theatrical Threads,2024,5,UK,86409.0,0
+Theatrical Threads,2024,6,UK,49673.0,0
+Theatrical Threads,2024,7,UK,84674.0,0
+Theatrical Threads,2024,8,UK,368574.0,1
+Theatrical Threads,2024,9,UK,0.0,0
+Theatrical Threads,2024,10,UK,69107.0,0
+Theatrical Threads,2024,11,UK,0.0,0
+Theatrical Threads,2024,12,UK,90083.0,0
+Theatrical Threads,2025,1,UK,0.0,0
+Theatrical Threads,2025,2,UK,207901.0,1
+Ghoul Gear,2021,1,UK,0.0,0
+Ghoul Gear,2021,2,UK,0.0,0
+Ghoul Gear,2021,3,UK,86921.0,0
+Ghoul Gear,2021,4,UK,115387.0,0
+Ghoul Gear,2021,5,UK,108241.0,0
+Ghoul Gear,2021,6,UK,99457.0,0
+Ghoul Gear,2021,7,UK,95365.0,0
+Ghoul Gear,2021,8,UK,324668.0,1
+Ghoul Gear,2021,9,UK,422195.0,1
+Ghoul Gear,2021,10,UK,63395.0,0
+Ghoul Gear,2021,11,UK,253613.0,1
+Ghoul Gear,2021,12,UK,120511.0,0
+Ghoul Gear,2022,1,UK,0.0,0
+Ghoul Gear,2022,2,UK,0.0,0
+Ghoul Gear,2022,3,UK,149229.0,0
+Ghoul Gear,2022,4,UK,82366.0,0
+Ghoul Gear,2022,5,UK,111491.0,0
+Ghoul Gear,2022,6,UK,166851.0,0
+Ghoul Gear,2022,7,UK,112669.0,0
+Ghoul Gear,2022,8,UK,629427.0,1
+Ghoul Gear,2022,9,UK,551718.0,1
+Ghoul Gear,2022,10,UK,151743.0,0
+Ghoul Gear,2022,11,UK,246104.0,1
+Ghoul Gear,2022,12,UK,159259.0,0
+Ghoul Gear,2023,1,UK,0.0,0
+Ghoul Gear,2023,2,UK,0.0,0
+Ghoul Gear,2023,3,UK,166239.0,0
+Ghoul Gear,2023,4,UK,79757.0,0
+Ghoul Gear,2023,5,UK,112535.0,0
+Ghoul Gear,2023,6,UK,113480.0,0
+Ghoul Gear,2023,7,UK,106209.0,0
+Ghoul Gear,2023,8,UK,497919.0,1
+Ghoul Gear,2023,9,UK,537722.0,1
+Ghoul Gear,2023,10,UK,162083.0,0
+Ghoul Gear,2023,11,UK,333455.0,1
+Ghoul Gear,2023,12,UK,136521.0,0
+Ghoul Gear,2024,1,UK,0.0,0
+Ghoul Gear,2024,2,UK,0.0,0
+Ghoul Gear,2024,3,UK,75757.0,0
+Ghoul Gear,2024,4,UK,69450.0,0
+Ghoul Gear,2024,5,UK,69135.0,0
+Ghoul Gear,2024,6,UK,52827.0,0
+Ghoul Gear,2024,7,UK,79761.0,0
+Ghoul Gear,2024,8,UK,362037.0,1
+Ghoul Gear,2024,9,UK,385829.0,1
+Ghoul Gear,2024,10,UK,100402.0,0
+Ghoul Gear,2024,11,UK,180485.0,1
+Ghoul Gear,2024,12,UK,49936.0,0
+Ghoul Gear,2025,1,UK,0.0,0
+Ghoul Gear,2025,2,UK,0.0,0
